@@ -80,4 +80,6 @@ replay_pid*
 .history
 .ionide
 
+#else
+*.json
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,visualstudiocode,c++
